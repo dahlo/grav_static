@@ -1,5 +1,5 @@
-http://grav.dahlo.se
-File generated automatically on Wed, 17 Nov 2021 13:47:44, do NOT edit
+http://grav.dahlo.se +*.dahlo.se/* -v
+File generated automatically on Wed, 17 Nov 2021 13:57:04, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
