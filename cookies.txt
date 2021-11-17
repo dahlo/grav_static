@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+grav.dahlo.se	TRUE	/	FALSE	1999999999	grav-site-0955107	nsgjb7o6t5rpm4sc7642ca087d
+grav.dahlo.se	TRUE	/	FALSE	1999999999	SameSite	Lax
+
